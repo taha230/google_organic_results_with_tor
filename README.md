@@ -1,3 +1,11 @@
+<div align="center" style="margin-bottom:30px;">
+  <img width="450" alt="tor_plus_google_organic_results" src="https://github.com/user-attachments/assets/697d926c-c8ac-4ba9-8662-f56abd4b99e4" />
+</div>
+
+<br><br> <!-- add more <br> if you need more space -->
+
+
+
 # Google Organic Results with Tor
 
 This project demonstrates how to fetch **Google organic search results** using the **Tor network** for anonymity and privacy.  
